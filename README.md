@@ -1,4 +1,4 @@
-# Tegar Pramudya — Physics Instrumentation Student | Aspiring Cybersecurity and IOT Professional  
+# Tegar Pramudya — Physics Instrumentation Student | Aspiring Cybersecurity and IoT Professional  
 
 ## 👋 About Me  
 
@@ -25,7 +25,17 @@
 
 ---
 
+
 ### 📫 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tegar-pramudya-0b252a283)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:tegarpramudya321@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Tgr22-hub)  
+
+---
+
+# 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=600&speed=80&lines=Cybersecurity+Enthusiast;IoT+Learner;Physics+Instrumentation+Student"/>
+</p>
+
