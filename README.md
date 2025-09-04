@@ -1,8 +1,8 @@
-# Tegar Pramudya — Physics Instrumentation Student | Aspiring Cybersecurity and IoT Professional  
+# Tegar Pramudya — Instrumentation Physics Student | Aspiring Cybersecurity and IoT Professional  
 
 ## 👋 About Me  
 
-🎓 I am a **Physics Instrumentation student at Universitas Brawijaya** who is currently expanding my expertise into **Cybersecurity** beyond the field of science.  
+🎓 I am a **Instrumentation Physics student at Universitas Brawijaya** who is currently expanding my expertise into **Cybersecurity** beyond the field of science.  
 
 🔬 With a strong foundation in physics that enhances **analytical thinking, precision, and problem-solving**, I value **integrity, work ethics, and continuous learning**.  
 
