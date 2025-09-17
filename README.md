@@ -36,6 +36,7 @@
 ## 📂 Portfolio
 1. [Laporan Audit Internal Botium Toys Google (PDF)](Laporan_Audit_Keamanan_Botium_Toys_Google.pdf)
 2. [Laporan Insiden Keamanan (PDF)](Laporan_Insiden_Keamanan.pdf)
+3. [Menggunakan_perintah_Linux_untuk_mengelola_perizinan_file_(PDF).](Menggunakan_perintah_Linux_untuk_mengelola_perizinan_file.pdf)
 ---
 # 
 
