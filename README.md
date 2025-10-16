@@ -36,8 +36,8 @@
 ## 📂 Portfolio
 1. [Laporan Audit Internal Botium Toys Google (PDF)](Laporan_Audit_Keamanan_Botium_Toys_Google.pdf)
 2. [Laporan Insiden Keamanan (PDF)](Laporan_Insiden_Keamanan.pdf)
-3. [Menggunakan perintah Linux untuk mengelola perizinan file (PDF).](Menggunakan_perintah_Linux_untuk_mengelola_perizinan_file.pdf)
-4. [Penerapan Filter pada Query SQL (PDF).](Penerapan_Filter_pada_Query_SQL.pdf).
+3. [Menggunakan perintah Linux untuk mengelola perizinan file (PDF)](Menggunakan_perintah_Linux_untuk_mengelola_perizinan_file.pdf)
+4. [Penerapan Filter pada Query SQL (PDF)](Penerapan_Filter_pada_Query_SQL.pdf).
 ---
 # 
 
